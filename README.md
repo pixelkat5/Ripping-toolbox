@@ -19,8 +19,7 @@ Noesis is a great utility for converting things like .DDS files to .PNG's. It ca
 
 <details><summary><strong>Game exclusive resources</strong></summary>
 
-> [!CAUTTION]
-> Most of this is just game exclusive so unlike the other tols, these/this will really only work for one or two games.
+CAUTION: Most of this is just game exclusive so unlike the other tools, these/this will really only work for one or two games.
 
 **Pokemon ripping guide by Random Talking Bush** [[BLOG]](https://www.vg-resource.com/thread-25872.html)
 
