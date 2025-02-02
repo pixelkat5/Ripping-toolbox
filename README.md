@@ -1,4 +1,4 @@
-# Ripping-toolbox
+# Ripping-toolbox (new updates should be coming soon, sorry for the wait. :/)
 
 A public resource for anything model ripping. That being a list of tools and what they do to just a general purpose ripping resources aimed at people just getting into model ripping. (and I guess reverse engineering) 
 
