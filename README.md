@@ -17,6 +17,10 @@ QuickBMS is basically a CLI program that lets you extract game models with the h
 
 Noesis is a great utility for converting things like .DDS files to .PNG's. It can also be used for viewing file types before you commit to converting something useless. Its also great as you can install plugins for formats that aren't already supported.
 
+# Asset ripper. [[download]](https://assetripper.github.io/AssetRipper/) or the [[Github]](https://github.com/AssetRipper/AssetRipper/releases/tag/latest) release.
+
+Asset ripper is a unity ripper in which its name comes from the .asset file type that unity uses. (I'll have to expand on this later when i have more energy and time)
+
 <details><summary><strong>Game exclusive resources</strong></summary>
 
 CAUTION: Most of this is just game exclusive so unlike the other tools, these/this will really only work for one or two games.
