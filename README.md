@@ -21,7 +21,9 @@ Noesis is a great utility for converting things like .DDS files to .PNG's. It ca
 Asset ripper is an all in one, easy to use GUI for ripping and converting Unity mesh's, images, Terrain, scripts, audio, sprite, textasset, script content levels, shaders, bundled assets, and the option of selecting a language thatll be used for decompiling said unity scripts. 
 All you've got to do is go to file and slect the game root directory. You can find all your games root directories at ```C:\Program Files (x86)\Steam\steamapps\common\```. Past that, Asset ripper will automatically sort all the files by their file use/type. Then you can just hit the export button and thats it.
 
-# ![Unity](https://img.shields.io/badge/unity-%23000000.svg?style=for-the-badge&logo=unity&logoColor=white) Asset Studio GUI
+# ![Unity](https://img.shields.io/badge/unity-%23000000.svg?style=for-the-badge&logo=unity&logoColor=white) Asset Studio GUI - A better alternative to Asset ripper.
+Pretty simalar to Asset ripper though you have more of a GUI than with ripper. Most of the same things apply here as they did with asset ripper, just put the root directory ```File -> Load folder```
+**I'll work on this later but most is self explanitory..**
 
 <details><summary><strong>Game exclusive resources</strong></summary>
 
